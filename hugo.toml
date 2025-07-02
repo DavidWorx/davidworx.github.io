@@ -97,7 +97,7 @@ pagination.pagerSize = 5
         [[languages.en.menu.main]]
           identifier = "portfolio"
           name = "Portafolio"
-          url = "/port/davidworks"
+          url = "/port"
 
 [module]
   [[module.imports]]
