@@ -59,7 +59,7 @@ Soy un colombiano de 19 años con algo más de experiencia en programación que 
 ---------------------------
 ## Contactos
 #### Correo electrónico: davidp3rd0m0.contacto@gmail.com
-#### Redes sociales: [{{< icons/icon vendor=bootstrap name=github size=2em >}}](https://github.com/MatheusXDe) | [{{< icons/icon vendor=bootstrap name=linkedin size=2em >}}](https://www.linkedin.com/in/david-perdomo-medina-video-game-developer/) | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}](https://matheusxde.itch.io/)
+#### Redes sociales: [{{< icons/icon vendor=bootstrap name=github size=2em >}} Principal](https://github.com/DavidWorx) | [{{< icons/icon vendor=bootstrap name=github size=2em color=red >}} Alternativo](https://github.com/MatheusXDe) | [{{< icons/icon vendor=bootstrap name=linkedin size=2em >}}](https://www.linkedin.com/in/david-perdomo-medina-video-game-developer/) | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}](https://matheusxde.itch.io/)
 # 
 ---------------------------
 # No se que poner aquí :(
